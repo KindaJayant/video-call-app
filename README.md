@@ -1,7 +1,3 @@
-Perfect — we’ll now generate a **professional README.md** for your project based on the assignment requirements in *Video Calling Web Application.pdf*and the implementation in your app (`React + WebRTC + Socket.IO + Node.js + Vite + Tailwind + Render + Vercel`).
-
----
-
 # 📹 Video Calling Web Application
 
 A full-stack **real-time video conferencing app** built using **WebRTC**, **Socket.IO**, and **React (Vite)**.
@@ -164,7 +160,4 @@ App runs on:
 
 ---
 
-Would you like me to:
 
-1. Format this README for **GitHub styling** (with badges, emojis, and live links)?
-2. Or keep it **minimal and formal** (for assignment PDF submission)?
