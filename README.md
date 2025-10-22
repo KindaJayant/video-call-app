@@ -159,5 +159,9 @@ App runs on:
 | Code structure & documentation | ✅      |
 
 ---
+## 📘 Full Project Documentation
 
+You can view the complete project documentation (Introduction, Background, Objectives, Methodology, Screenshots, and Results) here:
+
+📄 **[View Full Documentation on Google Drive](https://drive.google.com/file/d/1wS641Cfqg5uY1znLedZ9Mze3AELnH2E8/view?usp=sharing)**
 
